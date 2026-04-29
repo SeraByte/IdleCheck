@@ -5,7 +5,7 @@ Simple Windows tray tool that locks your PC after a period of inactivity. (lock 
 ## Features
 - Idle detection via Windows API
 - Tray icon with visual progress indicator
-- Configurable timeout (1–10 minutes)
+- Configurable timeout (1–10 minutes) (standard set to 3 min)
 
 ## How to run
 - Build with Visual Studio
