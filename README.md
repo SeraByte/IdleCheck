@@ -1,6 +1,6 @@
 # IdleCheck
 
-Simple Windows tray tool that locks your PC after a period of inactivity.
+Simple Windows tray tool that locks your PC after a period of inactivity. (lock like WIN+L)
 
 ## Features
 - Idle detection via Windows API
@@ -13,6 +13,7 @@ Simple Windows tray tool that locks your PC after a period of inactivity.
 
 ## Notes
 Uses WinAPI (`GetLastInputInfo`, `LockWorkStation`)
+due to WinAPI only works on Windows
 
 ## Download
 
