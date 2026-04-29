@@ -12,7 +12,7 @@ Simple Windows tray tool that locks your PC after a period of inactivity. (lock 
 - Or download from Releases
 
 ## Notes
-Uses WinAPI (`GetLastInputInfo`, `LockWorkStation`)
+Uses WinAPI (`GetLastInputInfo`, `LockWorkStation`);
 due to WinAPI only works on Windows
 
 ## Download
