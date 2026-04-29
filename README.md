@@ -13,3 +13,8 @@ Simple Windows tray tool that locks your PC after a period of inactivity.
 
 ## Notes
 Uses WinAPI (`GetLastInputInfo`, `LockWorkStation`)
+
+## Download
+
+You can download the prebuilt executable from the [Releases page](https://github.com/SeraByte/IdleCheck/releases).
+Just unzip and double-click IdleCheck.exe to run.
